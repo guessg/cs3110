@@ -1,0 +1,1 @@
+let ( ^^ ) x y = max x y;;
