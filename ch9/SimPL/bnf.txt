@@ -9,3 +9,6 @@ x ::= <identifiers>
 i ::= <integers>
 
 b ::= true | false
+
+# values 定义
+v :== i | b 
